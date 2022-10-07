@@ -1,0 +1,225 @@
+﻿school,name,role,male
+ut_austin,Jay Bartroff,faculty,1
+ut_austin,Catherine Calder,faculty,0
+ut_austin,Carlos Carvalho,faculty,1
+ut_austin,Paul Damien,faculty,1
+ut_austin,Arya Farahi,faculty,1
+ut_austin,Montserrat Fuentes,faculty,0
+ut_austin,Nhat Ho,faculty,1
+ut_austin,Mevin Hooten,faculty,1
+ut_austin,Antonio Linero,faculty,1
+ut_austin,Lauren Ancel Meyers,faculty,0
+ut_austin,Peter Mueller,faculty,1
+ut_austin,Jared S. Murray,faculty,1
+ut_austin,Vagheesh M. Marasimhan,faculty,1
+ut_austin,Layla Parast,faculty,0
+ut_austin,Roger Peng,faculty,1
+ut_austin,Paul Rathouz,faculty,1
+ut_austin,Thomas Sager,faculty,1
+ut_austin,Purnamrita Sarkar,faculty,0
+ut_austin,Abhra Sarkar,faculty,1
+ut_austin,James G. Scott,faculty,1
+ut_austin,Thomas Shively,faculty,1
+ut_austin,Stephen G. Walker,faculty,1
+ut_austin,Claus Wilke,faculty,1
+ut_austin,Sinead Williamson,faculty,0
+ut_austin,Mingyuan Zhou,faculty,1
+ut_austin,Corwin Zigler,faculty,1
+rice,Eric Chi,faculty,1
+rice,Katherine B. Endsor,faculty,0
+rice,Philip Ernst,faculty,1
+rice,Rudy Guerra,faculty,1
+rice,Loren Hopkins,faculty,0
+rice,Marek Kimmel,faculty,1
+rice,Daniel Kowal,faculty,1
+rice,Elizabeth Jenning McGuffey,faculty,0
+rice,Meng Li,faculty,1
+rice,Marina Vannucci,faculty,0
+rice,Frederi Viens,faculty,1
+rice,Genevera Allen,faculty,0
+rice,Christopher M. Jermaine,faculty,1
+rice,Anshumali Shrivastava,faculty,1
+michigan,Moulinath Banerjee,faculty,1
+michigan,Yang Chen,faculty,0
+michigan,Johann Gagnon-Bartsch,faculty,1
+michigan,Ben Hansen,faculty,1
+michigan,Xuming He,faculty,1
+michigan,Tailen Hsing,faculty,1
+michigan,Edward Ionides,faculty,1
+michigan,Robert Keener,faculty,1
+michigan,Liza Levina,faculty,0
+michigan,Walter Mebane,faculty,1
+michigan,XuanLong Nguyen,faculty,1
+michigan,Snigdha Panigrahi,faculty,0
+michigan,Jeffrey Regier,faculty,1
+michigan,Ya'acov Ritov,faculty,1
+michigan,Clayton Scott,faculty,1
+michigan,Kerby Shedden,faculty,1
+michigan,Stilian A. Stoev,faculty,1
+michigan,Yuekai Sun,faculty,1
+michigan,Kean Ming Tan,faculty,1
+michigan,Jonathan Terhorst,faculty,1
+michigan,Ambuj Tewari,faculty,1
+michigan,Naisyin Wang,faculty,0
+michigan,Yixin Wang,faculty,0
+michigan,Gongjun Xu,faculty,1
+michigan,Ji Zhu,faculty,1
+michigan,Ziwei Zhu,faculty,1
+ut_austin,Entejar Alam,phd,1
+ut_austin,Flavio Argenrieri,phd,1
+ut_austin,Preston Biro,phd,
+ut_austin,Soumyabrata Bose,phd,1
+ut_austin,Beatrice Cantoni,phd,0
+ut_austin,Brandon Carter,phd,1
+ut_austin,Fuheng Cui,phd,1
+ut_austin,Amber Day,phd,0
+ut_austin,Yunshan Duan,phd,0
+ut_austin,Jingjing Fan,phd,0
+ut_austin,Nevena Gligic,phd,0
+ut_austin,Viwei Gong,phd,0
+ut_austin,Xizewen Han,phd,1
+ut_austin,Rosalia Hernandez,phd,0
+ut_austin,Emily Hsiao,phd,0
+ut_austin,Inez Khan,phd,0
+ut_austin,Haerin Kim,phd,0
+ut_austin,Rebecca Knowlton,phd,0
+ut_austin,Travis Lilley,phd,
+ut_austin,Bernardo Flores Lopez,phd,1
+ut_austin,Anna Morgan,phd,0
+ut_austin,Blake Moya,phd,1
+ut_austin,Huy Nguyen,phd,1
+ut_austin,Khai Nguyen,phd,1
+ut_austin,Ciara Nugent,phd,
+ut_austin,Evan Ott,phd,
+ut_austin,Frank Rotiroti,phd,
+ut_austin,Michael Schwob,phd,1
+ut_austin,Rimli Sengupta,phd,
+ut_austin,Korawat Tanwisuth,phd,1
+ut_austin,Mauricio Garcia Tec,phd,1
+ut_austin,Angela Ting,phd,0
+ut_austin,Ritwik Vashistha,phd,1
+ut_austin,Zhengdong Wang,phd,1
+ut_austin,Shuying Wang,phd,0
+ut_austin,Yuchen (Jack) Xiao,phd,1
+ut_austin,Liyang Xie,phd,1
+ut_austin,Shujian (Steve) Zhang,phd,1
+ut_austin,Huangjie Zheng,phd,1
+rice,Emmanuel Asante,phd,1
+rice,Tyler Bagwell,phd,1
+rice,Felipe Bedoya,phd,1
+rice,Sara Biesiadny,phd,
+rice,Daniel Bourgeois,phd,1
+rice,Anderson Chang,phd,1
+rice,Jaihee Choi,phd,0
+rice,Meredith Clayton,phd,0
+rice,Joseph Feldman,phd,1
+rice,Mauro Flores,phd,1
+rice,Janet Fu,phd,0
+rice,Luqin Gan,phd,0
+rice,Yunan Gao,phd,
+rice,Fan Gao,phd,
+rice,Tony Gao,phd,1
+rice,Rose Graves,phd,0
+rice,Yujie Jiang,phd,
+rice,Brian King,phd,1
+rice,Elisabeth Kong,phd,0
+rice,Andrew Koval,phd,
+rice,Konstantin Larin,phd,1
+rice,Nhi Le,phd,0
+rice,Jason Lenderman,phd,1
+rice,Mingrui Liang,phd,1
+rice,Huiming Lin,phd,0
+rice,Chunshan Liu,phd,
+rice,Jiaming Liu,phd,1
+rice,Zejian Liu,phd,1
+rice,Xiaochen Long,phd,1
+rice,Rongke Lyu,phd,0
+rice,Kevin McCoy,phd,1
+rice,Arnold Muchatibaya,phd,1
+rice,Nam Ngyuen,phd,1
+rice,Grace Nie,phd,0
+rice,Jose Palacio,phd,
+rice,Yangfan Ren,phd,0
+rice,John Roberts,phd,1
+rice,Lori Selby,phd,0
+rice,Haoming Shi,phd,1
+rice,Thomas Sun ,phd,
+rice,Xin Tan,phd,1
+rice,Arthur Tchoneteck,phd,1
+rice,Ren-Yi Wang,phd,1
+rice,Jixin Wang,phd,1
+rice,Zachary Wooten,phd,1
+rice,Peng Yang,phd,1
+rice,Shengbin Ye,phd,1
+rice,Zijian Zeng,phd,1
+rice,John Zito,phd,
+michigan,Aaron Abkemeier,phd,1
+michigan,Katherine Ahn,phd,0
+michigan,Daniele Bracale,phd,1
+michigan,Sunrit Chakraborty,phd,1
+michigan,Prayag Chatha,phd,1
+michigan,Yichao Chen,phd,0
+michigan,Pramit Das,phd,1
+michigan,Anthony DiGiovanni,phd,1
+michigan,Enes Dilber,phd,1
+michigan,Bach Viet Do,phd,1
+michigan,Dat Do,phd,1
+michigan,Angelica Estrada,phd,0
+michigan,Mason Ferlic,phd,1
+michigan,Simon Fontaine,phd,1
+michigan,Luke Francisco,phd,1
+michigan,Derek Hansen,phd,1
+michigan,Kihyuk Hong,phd,1
+michigan,Easton Huch,phd,1
+michigan,Daniel Long,phd,1
+michigan,Yanxin Jin,phd,0
+michigan,Yifan Jin,phd,1
+michigan,Alexander Kgan,phd,1
+michigan,Rafail Kartsioukas,phd,1
+michigan,Daniel Kessler,phd,1
+michigan,Moritz Korte-Stapff,phd,1
+michigan,Roman Kouznetsov,phd,1
+michigan,Jinming Li,phd,1
+michigan,Yang Li,phd,1
+michigan,Vincenzo Loffredo,phd,1
+michigan,Cheng Ma,phd,1
+michigan,Peter MacDonald,phd,1
+michigan,Felipe Maia Polo,phd,1
+michigan,Subha Maity,phd,1
+michigan,Rebeka Man,phd,0
+michigan,Charlotte Man ,phd,0
+michigan,Brian Manzo,phd,1
+michigan,Declan McNamara,phd,1
+michigan,Bo Meng,phd,1
+michigan,Eduardo Ochoa Rivera,phd,1
+michigan,Benjamin Osafo Agyare,phd,
+michigan,Jing Ouyang,phd,0
+michigan,Yash Patel,phd,1
+michigan,Gang Qiao,phd,1
+michigan,Vinod Raman,phd,1
+michigan,Saptarshi Roy,phd,1
+michigan,Seamus Somerstep,phd,1
+michigan,Unique Subedi,phd,1
+michigan,Hu Sun,phd,1
+michigan,Robert Trangucci,phd,1
+michigan,Jacob Traugar,phd,1
+michigan,Victor Verma,phd,1
+michigan,Juntin Wang,phd,0
+michigan,Xinhe Wang,phd,0
+michigan,Yumeng Wang,phd,0
+michigan,Joshua Wasserman,phd,1
+michigan,Jesse Wheeler,phd,1
+michigan,Kevin Christian Wibisono,phd,1
+michigan,Shihao Wu,phd,1
+michigan,Yidan Xu,phd,0
+michigan,Ziping Xu,phd,1
+michigan,Songkai Xue,phd,1
+michigan,Shushu Zhang,phd,0
+michigan,Yilei Zhang,phd,0
+harvard,Souhardya Sengupta,phd,
+harvard,Yanke Song,phd,1
+harvard,Feicheng Wang,phd,1
+harvard,Longlin Wang,phd,
+harvard,Xiaodong Yang,phd,
+harvard,Haoyu Ye,phd,0
+harvard,Yi Zhang,phd,0
